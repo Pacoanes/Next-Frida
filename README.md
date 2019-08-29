@@ -17,11 +17,12 @@ ___
 
 Recursos   | Descripción | Logo 
 ---------- | ----------- | ----
-OpenCV     |  | ![logo](XXX)
-Tensorflow | Librería para la creación de las redes neurales que hemos usado        | ![logo](XXX)
-Keras      |      Framework que facilita el uso de Tensorflow       | ![logo](XXX)
-AI Platform | Plataforma de Google cloud para generar instancias | ![mapa](XXX)
-GPU        |  NVIDIA Tesla V100| ![logo](XXX)
+OpenCV     |  Librería con multiples algoritmos. Empleada para la detección facial y de ojos asi como para todo el procesamiento de las imágenes.| ![logo](XXX)
+Tensorflow | Librería de machine learning empleada en este caso para para la creación de las redes neurales que he usado | ![logo](XXX)
+Keras      | Framework que se monta sobre Tensorflow y que facilita su desarrollo       | ![logo](XXX)
+Google Colab | Para poder trabajar en notebooks con GPUs en el prototipado  | ![logo](XXX)
+AI Platform | Plataforma de Google Cloud para generar instancias con notebooks rapidamente | ![mapa](XXX)
+GPU        |  He usado una NVIDIA Tesla V100 para poder bajar los tiempos de entrenamiento| ![logo](XXX)
 
 **Resultado final:** 
 Fuentes:
