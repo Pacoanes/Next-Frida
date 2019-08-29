@@ -1,2 +1,10 @@
-.ipynb_checkpoints
+material
 .DS_Store
+__pycache__
+.ipynb_checkpoints
+
+generator.h5
+discriminator.h5
+
+jupyter
+raw.tgz
