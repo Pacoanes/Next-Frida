@@ -1,4 +1,4 @@
-![mapa](images/portada.png)
+![mapa](images/portada1.png)
 
 
 # Next Frida
