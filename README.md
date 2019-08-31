@@ -31,7 +31,7 @@ El **Resultado final:** final es una imagen unica generada a partir de todas las
 ___
 
 
-![mapa](images/college.png)
+![mapa](images/collage.png)
 ![mapa](images/artwork.png)
 
 
