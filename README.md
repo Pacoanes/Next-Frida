@@ -9,7 +9,7 @@ La idea era coger todas las pinturas y tratarlo como un sistema único. lo  buen
 ___
 
 **La finalidad** 
-Con las GANs () se ha conseguido generar números a parter de imagenes e incluso caras de personas que realemtne no existe. La finalidad era experimentar con obras de arte pero relamente tiene muchisimas aplicaciones.
+Con las GANs (Generative adversarial networks) se ha conseguido generar números a parter de imagenes e incluso caras de personas que realemtne no existe. La finalidad era experimentar con obras de arte pero relamente tiene muchisimas aplicaciones.
 
 
 **Recursos empleados:** 
@@ -24,8 +24,6 @@ Google Colab | Muy bueno para proptotipar usando notebooks con GPU e incluso TPU
 AI Platform (GCP) | Plataforma de Google Cloud para generar instancias con notebooks rapidamente | ![mapa](images/google.png)
 GPU        |  He usado una NVIDIA Tesla V100 para poder bajar los tiempos de entrenamiento| ![logo](images/nvidia.png)
 
-**Resultado final:** 
-Fuentes:
 
 El **Resultado final:** final es una imagen unica generada a partir de todas las obras que se le pasan a la red neuronal intentando imitar asi el estilo de los cuadros que se le han pasado.
 ___
