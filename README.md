@@ -30,6 +30,6 @@ ___
 
 
 ![mapa](images/collage.png)
-![mapa](images/artwork.png)
+![mapa](images/art.png)
 
 
