@@ -18,15 +18,15 @@ ___
 
 Recursos   | Descripción | Logo 
 ---------- | ----------- | ----
-OpenCV     |  Librería con multiples algoritmos. Empleada para la detección facial y de ojos asi como para todo el procesamiento de las imágenes.| ![logo](images/open.png)
-Tensorflow | Librería de machine learning empleada en este caso para para la creación de las redes neurales que he usado | ![logo](images/tf.png)
+OpenCV     |  Librería con múltiples algoritmos. Empleada para la detección facial y de ojos, así como para el procesamiento de las imágenes| ![logo](images/open.png)
+Tensorflow | Librería de machine learning empleada en este caso para la creación de las redes neurales | ![logo](images/tf.png)
 Keras      | Framework que se monta sobre Tensorflow y que facilita su desarrollo       | ![logo](images/keras.png)
-Google Colab | Muy bueno para proptotipar usando notebooks con GPU e incluso TPU | ![logo](images/colab.png)
-AI Platform (GCP) | Plataforma de Google Cloud para generar instancias con notebooks rapidamente | ![mapa](images/google.png)
-GPU        |  He usado una NVIDIA Tesla V100 para poder bajar los tiempos de entrenamiento| ![logo](images/nvidia.png)
+Google Colab | Herramienta para prototipar usando notebooks con GPU e incluso TPU | ![logo](images/colab.png)
+AI Platform (GCP) | Plataforma de Google Cloud para generar instancias con notebooks rápidamente | ![mapa](images/google.png)
+GPU        |  He usado NVIDIA Tesla V100 para poder bajar los tiempos de entrenamiento| ![logo](images/nvidia.png)
 
 
-El **Resultado final:** final es una imagen unica generada a partir de todas las obras que se le pasan a la red neuronal intentando imitar asi el estilo de los cuadros que se le han pasado.
+El **Resultado final:** es una imagen única generada a partir de todas las obras que han pasado por la red neuronal y que imita el estilo de estos cuadros. 
 ___
 
 
